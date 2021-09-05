@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Solid Men Mandarin Collar Green T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/495/594/kf75fgw0-0/t-shirt/f/6/j/xxl-t325-pwgh-seven-rocks-original-imafvpbgf6nchmfj.jpeg?q=50",
+      "brand": "Seven Rocks",
+      "price": 262,
+      "actualPrice": 1299,
+      "discount": 79,
+      "idealFor": "Men",
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": "2",
+      "name": "Color Block Men Round Neck Black T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/309/371/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50",
+      "brand": "Seven Rocks",
+      "price": 255,
+      "actualPrice": 1299,
+      "discount": 80,
+      "idealFor": "Men",
+      "size": ["M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "3",
+      "name": "Casual Regular Sleeves Printed Women Yellow Top",
+      "img": "https://rukminim1.flixcart.com/image/309/371/k0flmkw0/top/7/u/n/l-tttp003124-tokyo-talkies-original-imafk8ynguyznyvv.jpeg?q=50",
+      "brand": "Tokyo Talkies",
+      "price": 367,
+      "actualPrice": 1049,
+      "discount": 65,
+      "idealFor": "Women",
+      "size": ["XL"]
+    },
+    {
+      "id": "4",
+      "name": "Casual Regular Sleeves Printed Women Multicolor Top",
+      "img": "https://rukminim1.flixcart.com/image/309/371/jmp79u80-1/top/v/2/z/m-tttp002575-tokyo-talkies-original-imaf9jxz788svgjz.jpeg?q=50",
+      "brand": "Tokyo Talkies",
+      "price": 249,
+      "actualPrice": 849,
+      "discount": 70,
+      "idealFor": "Women",
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": "5",
+      "name": "Casual Regular Sleeves Printed Women Purple Top",
+      "img": "https://rukminim1.flixcart.com/image/309/371/kj7gwi80-0/top/b/l/g/l-117tkr2636-selvia-original-imafytvnzca5cyrd.jpeg?q=50",
+      "brand": "Selvia",
+      "price": 394,
+      "actualPrice": 1663,
+      "discount": 76,
+      "idealFor": "Women",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "6",
+      "name": "Casual Bell Sleeves Printed Women Blue Top",
+      "img": "https://rukminim1.flixcart.com/image/309/371/kqfj1jk0/top/g/f/m/l-167tk2854-selvia-original-imag4g7atjwznqyu.jpeg?q=50",
+      "brand": "Selvia",
+      "price": 369,
+      "actualPrice": 1663,
+      "discount": 77,
+      "idealFor": "Women",
+      "size": ["M", "L", "XL"]
+    },
+    {
+      "id": "7",
+      "name": "Solid Men Mandarin Collar White, Black T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/309/371/kjuby4w0/t-shirt/s/x/z/m-fc4058-fastcolors-original-imafzbj546kdvbh8.jpeg?q=50",
+      "brand": "Fast Colors",
+      "price": 295,
+      "actualPrice": 1999,
+      "discount": 85,
+      "idealFor": "Men",
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "8",
+      "name": "Color Block Men Round Neck Blue, Yellow T-Shirt",
+      "img": "https://rukminim1.flixcart.com/image/309/371/kasjjww0/t-shirt/p/m/c/m-fc4175-fastcolors-original-imafsaynmfhp5gnj.jpeg?q=50",
+      "brand": "Fast Colors",
+      "price": 291,
+      "actualPrice": 1999,
+      "discount": 85,
+      "idealFor": "Men",
+      "size": ["S", "M", "L", "XL"]
+    }
+  ]
+}
