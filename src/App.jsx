@@ -1,11 +1,11 @@
 import { useEffect } from "react";
 import "./App.css";
+import { Nav } from "./components/Nav/Nav";
 import { useData } from "./context/DataContext";
 import { ProductListing } from "./pages/productListing/ProductListing";
 
 function App() {
-  const { state, dispatch } = useData();
-  console.log(state);
+  const { dispatch } = useData();
 
   useEffect(() => {
     dispatch({ type: "INITIALIZE_PRODUCTS" });
@@ -13,7 +13,8 @@ function App() {
 
   return (
     <div className="App">
-      <p>Flipkart-Demo</p>
+      {/* <p>Flipkart-Demo</p> */}
+      <Nav />
       <ProductListing />
     </div>
   );
