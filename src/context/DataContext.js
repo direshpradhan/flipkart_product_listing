@@ -10,7 +10,17 @@ export const DataContextProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, initialState);
 
   return (
-    <DataContext.Provider value={{ state, dispatch }}>
+    <DataContext.Provider
+      value={{
+        state,
+        dispatch,
+        sortBy: state.sortBy,
+        products: state.products,
+        filterByBrands: state.filterByBrands,
+        filterBySizes: state.filterBySizes,
+        filterByIdealFor: state.filterByIdealFor,
+      }}
+    >
       {children}
     </DataContext.Provider>
   );

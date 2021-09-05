@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import { useEffect } from "react";
 import "./App.css";
 import { useData } from "./context/DataContext";
