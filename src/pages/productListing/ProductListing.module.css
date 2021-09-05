@@ -5,6 +5,7 @@
 
 .filter {
   width: 15%;
+  margin-left: 1rem;
 }
 
 .product_container {
@@ -12,25 +13,6 @@
   grid-template-columns: repeat(2, 1fr);
   row-gap: 1rem;
   width: 85%;
-}
-
-fieldset {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  padding: 0 1rem;
-  margin: 1rem 0;
-}
-
-fieldset > legend {
-  font-size: 1.1rem;
-  font-weight: 700;
-}
-
-fieldset div {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
 }
 
 @media screen and (min-width: 768px) {

@@ -48,6 +48,15 @@ export const dataReducer = (state, action) => {
           : [...state.filterByIdealFor, action.payload],
       };
 
+    case "RESET_FILTERS":
+      return {
+        ...state,
+        sortBy: null,
+        filterByBrands: [],
+        filterBySizes: [],
+        filterByIdealFor: [],
+      };
+
     default:
       return state;
   }

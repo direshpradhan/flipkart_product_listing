@@ -1,0 +1,28 @@
+.filters {
+  position: sticky;
+  top: 15vh;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0 1rem;
+  margin: 1rem 0;
+}
+
+fieldset > legend {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+fieldset div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.clear_button {
+  width: 100%;
+  padding: 0.25rem;
+}
